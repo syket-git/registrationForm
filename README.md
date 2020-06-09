@@ -1,2 +1,0 @@
-# registrationForm
-Created with CodeSandbox
